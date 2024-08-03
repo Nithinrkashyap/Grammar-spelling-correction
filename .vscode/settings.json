@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1C3225",
+        "titleBar.activeBackground": "#284634",
+        "titleBar.activeForeground": "#F9FCFA"
+    },
+    "python.analysis.extraPaths": [
+        "./DEEPLEARNING_Nlp"
+    ]
+}
